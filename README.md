@@ -1,4 +1,4 @@
-````markdown
+
 # CloudGuard Activity Reporter
 
 This Go program fetches activity and detected problems from Oracle Cloud Guard and generates a CSV report along with a detailed summary.
