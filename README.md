@@ -123,11 +123,4 @@ p3,2025-12-11T14:30:00Z,2025-12-13T16:50:00Z,2,r3,NSG-01,NetworkSecurityGroup,us
 
 ---
 
-## License
 
-MIT License
-
-```
-
-ant me to do that?
-```
