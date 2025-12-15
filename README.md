@@ -25,3 +25,9 @@ The tool generates a **CSV report** and prints a **detailed summary** of detecte
 ```bash
 go get github.com/oracle/oci-go-sdk/v65/cloudguard
 go get github.com/oracle/oci-go-sdk/v65/common
+
+---
+
+## Installation**
+
+Clone this repository:
